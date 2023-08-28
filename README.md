@@ -1,3 +1,8 @@
+###
+
+<h1 align="center">hey there 👋, I'm Jacopo</h1>
+
+###
 <div align="center">
 <a href="https://linkedin.com/in/jacopo-repossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacopo-repossi" height="30" width="40" /></a>
 <a href="https://kaggle.com/jacoporepossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jacoporepossi" height="30" width="40" /></a>
@@ -8,10 +13,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jacoporepossi.jacoporepossi&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋, I'm Jacopo</h1>
 
 ###
 
