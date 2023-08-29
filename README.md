@@ -4,6 +4,7 @@
 
 ###
 <div align="center">
+<h3 align="center">Connect with me:</h3>
 <a href="https://linkedin.com/in/jacopo-repossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacopo-repossi" height="30" width="40" /></a>
 <a href="https://kaggle.com/jacoporepossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jacoporepossi" height="30" width="40" /></a>
 </div>
@@ -46,3 +47,10 @@
 </div>
 
 ###
+
+<h3 align="left">🔥 Kaggle</h3>
+
+<div align="left">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/discussion" />
+</div>
