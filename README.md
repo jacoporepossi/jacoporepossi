@@ -51,6 +51,7 @@
 <h3 align="left">🔥 Kaggle</h3>
 
 <div align="left">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/competition" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/notebook" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/discussion" />
 </div>
