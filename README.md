@@ -39,11 +39,11 @@
 
 <div>
   <a href="https://www.kaggle.com/jacoporepossi">
-    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+    <img src="./kaggle-badges/CompetitionsRank/plastic-white.svg" alt="KaggleCompetitionRank" />
   </a>
   <a href="https://www.kaggle.com/jacoporepossi">
     <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
   </a>
   <a href="https://www.kaggle.com/jacoporepossi">
-    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleDiscussionRank" />
+    <img src="./kaggle-badges/DiscussionsRank/plastic-white.svg" alt="KaggleDiscussionRank" />
 </div>
