@@ -30,28 +30,20 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" alt="scikit_learn" height="40"  />
-  <img width="12" />
-  <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="airflow" height="40"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,py,pytorch,sklearn&theme=light" />
 </div>
 
 ###
 
 <h3 align="left">🔥 Kaggle</h3>
 
-<div align="left">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/competition" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/notebook" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jacoporepossi/discussion" />
+<div>
+  <a href="https://www.kaggle.com/jacoporepossi">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/jacoporepossi">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
+  </a>
+  <a href="https://www.kaggle.com/jacoporepossi">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleDiscussionRank" />
 </div>
