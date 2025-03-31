@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Senior Data Scientist @ Jakala<br>- 📚 Constantly learning Machine Learning & Deep Learning<br>- ⚡ In my free time I do sports & compete on Kaggle <br>- 📝 I regularly write articles on <a href="https://bit.ly/learningq-github">my blog</a></p>
+<p align="left">- 🔭 I’m working as a Senior Data Scientist @ Jakala<br>- 📚 Constantly learning Machine Learning & Deep Learning<br>- ⚡ In my free time I do sports & compete on Kaggle <br>- 📝 I regularly write articles on <a href="https://bit.ly/learningq-github" rel="follow">my blog</a></p>
 
 ###
 
